@@ -1,0 +1,1 @@
+# JSON-Symmetric-Encryption-CORE
